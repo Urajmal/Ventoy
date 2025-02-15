@@ -1,5 +1,5 @@
 {
-  "VTLANG_LANGUAGE_NAME": "Slovenija (Slovenski)",
+  "VTLANG_LANGUAGE_NAME": "Slovenija (Slovenščina)",
 
   "VTLANG_STR_HOTKEY_LIST": "L:Jezik  F1:Pomoč  F2:Prebrskaj  F3:ListView  F4:Localboot  F5:Orodja  F6:ExMenu",
   "VTLANG_STR_HOTKEY_TREE": "L:Jezik  F1:Pomoč  F2:Prebrskaj  F3:TreeView  F4:Localboot  F5:Orodja  F6:ExMenu",
@@ -28,18 +28,18 @@
   "VTLANG_CHKSUM_SHA256_CALC_CHK": "Izračunaj in preveri sha256sum",
   "VTLANG_CHKSUM_SHA512_CALC_CHK": "Izračunaj in preveri sha512sum",
 
-  "VTLANG_POWER": "Napajanje",
+  "VTLANG_POWER": "Izklop",
   "VTLANG_POWER_REBOOT": "Ponovni zagon",
-  "VTLANG_POWER_HALT": "Halt",
+  "VTLANG_POWER_HALT": "Ustavi zagonski proces",
   "VTLANG_POWER_BOOT_EFIFW": "Ponovni zagon v nastavitev EFI",
 
-  "VTLANG_KEYBRD_LAYOUT": "Postavitev tipkovnice",
+  "VTLANG_KEYBRD_LAYOUT": "Tipkovnica",
   "VTLANG_HWINFO": "Informacije o strojni opremi",
 
   "VTLANG_RESOLUTION_CFG": "Nastavitev ločljivosti",
   "VTLANG_SCREEN_MODE": "Način prikaza na zaslonu",
-  "VTLANG_SCREEN_TEXT_MODE": "Vsili besedilni način",
-  "VTLANG_SCREEN_GUI_MODE": "Vsili grafični način",
+  "VTLANG_SCREEN_TEXT_MODE": "Besedilni način",
+  "VTLANG_SCREEN_GUI_MODE": "Grafični način",
 
   "VTLANG_THEME_SELECT": "Izbira teme",
 
@@ -68,8 +68,8 @@
   "VTLANG_GRUB2_MODE": "Zagon v načinu grub2",
   "VTLANG_MEMDISK_MODE": "Zagon v načinu memdisk",
 
-  "VTLANG_RET_TO_LISTVIEW": "Vrnitev na ListView",
-  "VTLANG_RET_TO_TREEVIEW": "Vrnitev v TreeView",
+  "VTLANG_RET_TO_LISTVIEW": "Vrnitev na začetni meni",
+  "VTLANG_RET_TO_TREEVIEW": "Vrnitev v drevesni meni",
 
   "VTLANG_NO_AUTOINS_SCRIPT": "Zagon brez predloge za samodejno namestitev",
   "VTLANG_AUTOINS_USE": "Zagon z",
@@ -84,8 +84,8 @@
   "VTLANG_ENTER_CONTINUE": "za nadaljevanje pritisnite tipko Enter",
 
   "VTLANG_CTRL_TEMP_SET": "Začasne nadzorne nastavitve",
-  "VTLANG_WIN11_BYPASS_CHECK": "Obid preverjanja CPU/TPM/SecureBoot pri namestitvi sistema Windows 11",
-  "VTLANG_WIN11_BYPASS_NRO": "Obid zahteve po spletnem računu pri namestitvi sistema Windows 11",
+  "VTLANG_WIN11_BYPASS_CHECK": "Obhodi preverjanja CPU/TPM/SecureBoot pri namestitvi sistema Windows 11",
+  "VTLANG_WIN11_BYPASS_NRO": "Obhodi zahteve po spletnem računu pri namestitvi sistema Windows 11",
   "VTLANG_LINUX_REMOUNT": "Priklopi Ventoy particijo po zagonu Linuxa",
   "VTLANG_SECONDARY_BOOT_MENU": "Prikaz sekundarnega zagonskega menija",
 
