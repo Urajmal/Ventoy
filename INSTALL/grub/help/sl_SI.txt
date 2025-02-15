@@ -1,0 +1,19 @@
+ L - Izbira jezika
+F1 - Prikaži pomoč
+F2 - Izbira in zagon datotek iz lokalnega diska
+F3 - Sprememba prikaza začetnega menija
+F4 - Zaženi Windows/Linux z lokalnega diska
+F5 - Orodja
+F6 - Naloži lasten Grub2
+F7 - Preklopi med grafičnim in tekstovnim pogledom
+
+m/Ctrl+m - Preverba Checksum (md5/sha1/sha256/sha512)
+d/Ctrl+d - Memdisk način (Samo za majhne WinPE/LiveCD ISO/IMG)
+w/Ctrl+w - WIMBOOT način (Samo za Windows/WinPE ISO slike)
+r/Ctrl+r - Grub2 način (Samo za nekatere Linux slike)
+i/Ctrl+i - Kompatibilni način (Samo za odpravljanje napak)
+u/Ctrl+u - Naloži ISO EFI gonilnik (Samo za odpravljanje napak, ne možno uporabiti na uradnih slikah)
+
+
+
+Pritisni ESC za nazaj ......
